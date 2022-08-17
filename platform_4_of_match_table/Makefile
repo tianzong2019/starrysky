@@ -1,6 +1,6 @@
 ARCH := arm64
 ARMCC := aarch64-linux-gnu-
-KDIR := ${HOME}/codeSpace/base_kernel-proto
+KDIR := ${HOME}/codeSpace/base_kernel
 out :=  ${HOME}/codeSpace/distaghil/out
 
 ifneq  ($(KERNELRELEASE),)
