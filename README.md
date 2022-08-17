@@ -1,7 +1,7 @@
 # starrysky
 demo code
 
-- 01_demo_misc
+- [01_demo_misc](https://github.com/tianzong2019/starrysky/tree/main/01_demo_misc)
   - misc设备树的demo code
   
 - platform-1-byname
