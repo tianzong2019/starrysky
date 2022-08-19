@@ -25,4 +25,6 @@ demo code
 - [hrtimer-2-moduleparam](https://github.com/tianzong2019/starrysky/tree/main/hrtimer-2-moduleparam)
   - 基于内核高精度定时器定时打印module parameter
 
+- [interrupt-1-fasync](https://github.com/tianzong2019/starrysky/tree/main/interrupt-1-fasync)
+
 
