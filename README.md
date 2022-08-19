@@ -21,3 +21,8 @@ demo code
 
 - [hrtimer](https://github.com/tianzong2019/starrysky/tree/main/hrtimer)
   - 内核高精度定时器实现
+
+- [hrtimer-2-moduleparam](https://github.com/tianzong2019/starrysky/tree/main/hrtimer-2-moduleparam)
+  - 基于内核高精度定时器定时打印module parameter
+
+
