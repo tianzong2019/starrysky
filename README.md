@@ -29,5 +29,15 @@ demo code
   - 使用fasync通知user，有中断
   - 采用hrtimer 模拟中断处理
 
+- [interrupt-2-poll](https://github.com/tianzong2019/starrysky/tree/main/interrupt-2-poll)
+  - user使用poll轮询中断
+  - 采用hrtimer 模拟中断处理
+
+- [interrupt-3-epoll](https://github.com/tianzong2019/starrysky/tree/main/interrupt-3-epoll)
+  - user使用 epoll 轮询中断
+  - 采用hrtimer 模拟中断处理
+
+
+
 
 
