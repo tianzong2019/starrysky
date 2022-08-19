@@ -26,5 +26,8 @@ demo code
   - 基于内核高精度定时器定时打印module parameter
 
 - [interrupt-1-fasync](https://github.com/tianzong2019/starrysky/tree/main/interrupt-1-fasync)
+  - 使用fasync通知user，有中断
+  - 采用hrtimer 模拟中断处理
+
 
 
