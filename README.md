@@ -19,7 +19,7 @@ demo code
   - platform有3种匹配方式，匹配优先级：of_match_table > id_table > name
   - 这里使用 of_match_table
 
-- [hrtimer](https://github.com/tianzong2019/starrysky/tree/main/hrtimer)
+- [hrtimer-1-demo](https://github.com/tianzong2019/starrysky/tree/main/hrtimer-1-demo)
   - 内核高精度定时器实现
 
 - [hrtimer-2-moduleparam](https://github.com/tianzong2019/starrysky/tree/main/hrtimer-2-moduleparam)
