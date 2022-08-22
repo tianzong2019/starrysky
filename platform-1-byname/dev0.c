@@ -12,7 +12,7 @@ static void dev_release(struct device *dev)
  
 static struct platform_device dev_device=
 {
-	.name = "mali-trc",
+	.name = "mali-rtc",
     .id = -1,
     .dev.release = dev_release,
 };
