@@ -40,6 +40,8 @@ demo code
   - user使用 epoll 轮询中断
   - 采用hrtimer 模拟中断处理
 
+- [miniature_driver](https://github.com/tianzong2019/starrysky/tree/main/miniature_driver)
+  - 迷你型 misc driver demo code
 
 
 
