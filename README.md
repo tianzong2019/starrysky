@@ -43,6 +43,8 @@ demo code
 - [miniature_driver](https://github.com/tianzong2019/starrysky/tree/main/miniature_driver)
   - 迷你型 misc driver demo code
 
+- [msgqueue](https://github.com/tianzong2019/starrysky/tree/main/msgqueue)
+  - 多线程间使用消息队列通信
 
 
 
